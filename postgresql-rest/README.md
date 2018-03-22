@@ -23,7 +23,7 @@ Pour les dépendances de Spring, on utilisera :
 
 - spring-boot-starter-web
 - spring-boot-starter-data-jpa
-- spring-boot-starter-data-rest
+- spring-boot-starter-data-rest  
 avec `org.postgresql`.
 
 # explications
